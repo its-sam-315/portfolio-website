@@ -78,6 +78,15 @@ nav a:hover {
     color: #ff4500; /* Orange on hover */
 }
 
+/* 🎯 AI Resume Builder Specific Styling */
+.projects p a[href*="AI-Resume-Builder"] {
+    color: #004080; /* Dark blue for AI Resume Builder */
+}
+
+.projects p a[href*="AI-Resume-Builder"]:hover {
+    color: #cc0000; /* Dark red on hover */
+}
+
 /* Contact Section */
 .contact {
     background: #333;
