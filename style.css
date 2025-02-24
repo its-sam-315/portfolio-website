@@ -69,6 +69,15 @@ nav a:hover {
     color: #ff0000; /* Turns red on hover */
 }
 
+/* 🔥 Auto File Organizer Specific Styling */
+.projects p a[href*="Python-Automation-Scripts"] {
+    color: #800080; /* Purple color to highlight Auto File Organizer */
+}
+
+.projects p a[href*="Python-Automation-Scripts"]:hover {
+    color: #ff4500; /* Orange on hover */
+}
+
 /* Contact Section */
 .contact {
     background: #333;
